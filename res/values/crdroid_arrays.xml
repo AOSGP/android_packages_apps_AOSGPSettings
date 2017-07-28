@@ -1177,17 +1177,6 @@
         <item>7</item>
     </string-array>
 
-    <!-- Header options -->
-    <string-array name="custom_header_provider_entries" translatable="false">
-        <item>@string/daylight_header_provider_title</item>
-        <item>@string/static_header_provider_title</item>
-    </string-array>
-
-    <string-array name="custom_header_provider_values" translatable="false">
-        <item>@string/daylight_header_provider</item>
-        <item>@string/static_header_provider</item>
-    </string-array>
-
      <!-- Slim Recent panel -->
     <string-array name="recent_panel_expanded_mode_entries">
         <item>@string/recent_panel_expanded_mode_auto</item>
