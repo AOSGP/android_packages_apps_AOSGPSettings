@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid Settings</string>
+    <string name="crdroid_settings_title">AOSGP Settings</string>
     <string name="crdroid_personalization_category">Personalisatie</string>
     <string name="crdroid_addons_category">Addons</string>
 

@@ -47,7 +47,6 @@ import com.crdroid.settings.fragments.RecentsSettings;
 import com.crdroid.settings.fragments.SoundSettings;
 import com.crdroid.settings.fragments.AnimationSettings;
 import com.crdroid.settings.fragments.MiscSettings;
-import com.crdroid.settings.fragments.About;
 
 public class crDroidSettingsLayout extends SettingsPreferenceFragment {
 
@@ -102,7 +101,6 @@ public class crDroidSettingsLayout extends SettingsPreferenceFragment {
             frags[9] = new SoundSettings();
             frags[10] = new AnimationSettings();
             frags[11] = new MiscSettings();
-            frags[12] = new About();
         }
 
         @Override
@@ -135,8 +133,7 @@ public class crDroidSettingsLayout extends SettingsPreferenceFragment {
             getString(R.string.recents_title),
             getString(R.string.sound_title),
             getString(R.string.animation_title),
-            getString(R.string.misc_title),
-            getString(R.string.about_crdroid)
+            getString(R.string.misc_title)
         };
         return titleString;
     }

@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid Settings</string>
+    <string name="crdroid_settings_title">AOSGP Settings</string>
     <string name="crdroid_personalization_category">Personalization</string>
     <string name="crdroid_addons_category">Addons</string>
 
@@ -1546,7 +1546,4 @@
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
     <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
-=======
-    <string name="wakelock_blocker_warning">Blocking wakelocks have the potential to cause instability, crashes or data loss</string> 
->>>>>>> parent of 2db914a... Add custom QS header images [2/2]
 </resources>
